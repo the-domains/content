@@ -2,6 +2,7 @@ name: CONTENT
 favicon: null
 layout_spectrum: 0.0033039457630366087
 typography_spectrum: 0.2723409980535507
+title: CONTENT
 cta:
   domain: null
   bucket: null
