@@ -1,0 +1,28 @@
+name: CONTENT
+favicon: null
+layout_spectrum: 0.0033039457630366087
+typography_spectrum: 0.2723409980535507
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.44905030191875994
+  lightness: 0.30426029744558036
+  saturation: 0.8728184353094548
+  rhythmicContrast: 0.08801622991450131
+purpose: []
